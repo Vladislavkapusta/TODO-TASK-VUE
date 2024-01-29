@@ -31,10 +31,7 @@
 </template>
 
 <style scoped>
-    .task{
-        width: 80%;
-        height: 100px;
-    }
+
     .green{
         background-color: green;
     }
